@@ -1,0 +1,25 @@
+body{
+  background-color:gray;
+}
+h1{color:blue;
+  font-size:50px;
+}
+div{ background-color:white;
+  width:700px;
+  height:650px;
+}
+input{ height:50PX;
+  width:300px
+}
+button{
+  background-color:blue;
+  color:white;
+  border-radius: 3cm;
+}
+.creat{
+  background-color:green;
+
+}
+hr{
+  width:3;
+}

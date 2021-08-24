@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+body {
+    background-color:grey;
+}
+div{
+    background-color: white;
+    width:80;
+    height:15;
+}
+button{
+    color:white;
+    background-color: green;
+}
+.kb{
+    color:white;
+    background-color: blue;
+}
